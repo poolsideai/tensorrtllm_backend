@@ -1,3 +1,4 @@
 [submodule "tensorrt_llm"]
 	path = tensorrt_llm
-	url = https://github.com/NVIDIA/TensorRT-LLM.git
+	url = git@github.com:poolsideai/TensorRT-LLM.git
+	branch = poolside
